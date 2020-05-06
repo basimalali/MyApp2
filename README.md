@@ -1,2 +1,2 @@
 # MyApp2
-This is my app 2 demo
+This is my app 2 demo plus revised copy
